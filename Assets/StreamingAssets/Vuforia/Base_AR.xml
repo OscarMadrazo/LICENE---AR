@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="vuforia-4" size="1.000000 1.000000" />
+    <ImageTarget name="vuforia-1" size="1.000000 1.000000" />
+    <ImageTarget name="Wonky_Diademuertos" size="1.000000 1.058901" />
+    <ImageTarget name="ods_8_unity" size="0.200000 0.198292" />
+    <ImageTarget name="ods_4_unity" size="0.200000 0.202665" />
+    <ImageTarget name="licene_unity" size="0.200000 0.199297" />
+  </Tracking>
+</QCARConfig>
